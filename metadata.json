@@ -1,7 +1,7 @@
 {
-    "name": "Opacity AVS",
+    "name": "Opacity Network",
     "website": "https://www.opacity.network",
-    "description": "Opacity is a zkTLS based AVS for trustlessly bridging web2 data to web3.",
+    "description": "Opacity is a zkTLS based AVS for bridging web2 data to web3.",
     "logo": "https://raw.githubusercontent.com/OpacityLabs/avs-metadata/main/avs-logo.png",
     "twitter": "https://twitter.com/OpacityNetwork",
     "farcaster": "https://warpcast.com/~/channel/opacity"
